@@ -1,0 +1,13 @@
+{
+  "manifest_version":3,
+   "version":"1.3",
+   "name":"Leads tracker",
+   "description":"This extension helps keep track of your customer leads,tabs and important websites you regularly visit.Just add it to the extension!",
+   "action":{
+          "default_popup": "Extension.html",
+          "default_icon": "Leads.png"
+   },
+ "permission":[
+        "tabs"
+   ]
+}
